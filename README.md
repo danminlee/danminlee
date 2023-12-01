@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danminlee
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on quant
 - 📫 How to reach me: ooh_hoo@yeah.net
 
 <!---
